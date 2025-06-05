@@ -1,5 +1,6 @@
 #IDENTAÇÃO
 if 5>2:
+#nao
     print("eu vou ali, jajá")
 if 5>3:
     print ("e tudo mundo morreu")
